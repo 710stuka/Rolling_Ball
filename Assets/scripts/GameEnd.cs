@@ -13,6 +13,7 @@ public class GameEnd : MonoBehaviour {
 	private void Start(){
 		gameEnd = GameObject.Find ("GameEnd").GetComponent<Button> ();
 		gameEnd.onClick.AddListener (onClickTriggered);
+		//stuka
 	}
 
 	private void onClickTriggered(){
