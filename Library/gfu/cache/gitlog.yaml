@@ -12,6 +12,1063 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 34af408368516658ee27ea9a36742fa848b8a70b
+    MergeA: 
+    MergeB: 
+    AuthorName: Tsukasa Watanabe
+    AuthorEmail: 710tsukasa@gmail.com
+    CommitEmail: 710tsukasa@gmail.com
+    CommitName: Tsukasa Watanabe
+    Summary: 3rd
+    Description: 3rd
+    TimeString: 09/29/2017 22:58:46 +09:00
+    CommitTimeString: 09/29/2017 22:58:46 +09:00
+    Changes:
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      ProjectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      FullPath: /Users/azabu16/Ball/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      ProjectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/scene/game.unity
+      FullPath: /Users/azabu16/Ball/Assets/scene/game.unity
+      ProjectPath: Assets/scene/game.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/scripts/GameEnd.cs
+      FullPath: /Users/azabu16/Ball/Assets/scripts/GameEnd.cs
+      ProjectPath: Assets/scripts/GameEnd.cs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/CrashedAssetImports.txt
+      FullPath: /Users/azabu16/Ball/Library/CrashedAssetImports.txt
+      ProjectPath: Library/CrashedAssetImports.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/LastBuild.buildreport
+      FullPath: /Users/azabu16/Ball/Library/LastBuild.buildreport
+      ProjectPath: Library/LastBuild.buildreport
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/PlayerDataCache/Data/globalgamemanagers
+      FullPath: /Users/azabu16/Ball/Library/PlayerDataCache/Data/globalgamemanagers
+      ProjectPath: Library/PlayerDataCache/Data/globalgamemanagers
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/PlayerDataCache/Data/sharedassets0.assets
+      FullPath: /Users/azabu16/Ball/Library/PlayerDataCache/Data/sharedassets0.assets
+      ProjectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/PlayerDataCache/ScriptLayoutHashes.txt
+      FullPath: /Users/azabu16/Ball/Library/PlayerDataCache/ScriptLayoutHashes.txt
+      ProjectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      FullPath: /Users/azabu16/Ball/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/assetDatabase3
+      FullPath: /Users/azabu16/Ball/Library/assetDatabase3
+      ProjectPath: Library/assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/azabu16/Ball/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/00/00000000000000004000000000000000
+      FullPath: /Users/azabu16/Ball/Library/metadata/00/00000000000000004000000000000000
+      ProjectPath: Library/metadata/00/00000000000000004000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/89/89f7e86100750af40a7b5e57b6875483
+      FullPath: /Users/azabu16/Ball/Library/metadata/89/89f7e86100750af40a7b5e57b6875483
+      ProjectPath: Library/metadata/89/89f7e86100750af40a7b5e57b6875483
+      OriginalPath: Library/metadata/79/793d14dfd33f2c34cbb097a1f66991cb
+      Status: 6
+      Staged: 0
+    - Path: Library/metadata/89/89f7e86100750af40a7b5e57b6875483.info
+      FullPath: /Users/azabu16/Ball/Library/metadata/89/89f7e86100750af40a7b5e57b6875483.info
+      ProjectPath: Library/metadata/89/89f7e86100750af40a7b5e57b6875483.info
+      OriginalPath: Library/metadata/79/793d14dfd33f2c34cbb097a1f66991cb.info
+      Status: 6
+      Staged: 0
+    - Path: Library/metadata/c2/c20998f7383066a4aabecce000394abf
+      FullPath: /Users/azabu16/Ball/Library/metadata/c2/c20998f7383066a4aabecce000394abf
+      ProjectPath: Library/metadata/c2/c20998f7383066a4aabecce000394abf
+      OriginalPath: Library/metadata/ce/ce871873e272f424dadcd1374ecef0e2
+      Status: 6
+      Staged: 0
+    - Path: Library/metadata/c2/c20998f7383066a4aabecce000394abf.info
+      FullPath: /Users/azabu16/Ball/Library/metadata/c2/c20998f7383066a4aabecce000394abf.info
+      ProjectPath: Library/metadata/c2/c20998f7383066a4aabecce000394abf.info
+      OriginalPath: Library/metadata/ce/ce871873e272f424dadcd1374ecef0e2.info
+      Status: 6
+      Staged: 0
+    - Path: Library/metadata/ea/eafe469d3139d42c19d0036b86fee779
+      FullPath: /Users/azabu16/Ball/Library/metadata/ea/eafe469d3139d42c19d0036b86fee779
+      ProjectPath: Library/metadata/ea/eafe469d3139d42c19d0036b86fee779
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler1.log
+      FullPath: /Users/azabu16/Ball/Library/shadercompiler-UnityShaderCompiler1.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler2.log
+      FullPath: /Users/azabu16/Ball/Library/shadercompiler-UnityShaderCompiler2.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler3.log
+      FullPath: /Users/azabu16/Ball/Library/shadercompiler-UnityShaderCompiler3.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/machine.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/machine.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/1.0/machine.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/machine.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/machine.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/machine.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/settings.map
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/settings.map
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/settings.map
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/web.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/web.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/2.0/web.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/machine.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/machine.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/machine.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/settings.map
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/settings.map
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/settings.map
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/web.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/web.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.0/web.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/machine.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/machine.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/machine.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/settings.map
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/settings.map
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/settings.map
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/web.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/web.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/4.5/web.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/browscap.ini
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/browscap.ini
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/browscap.ini
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/mconfig/config.xml
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/mconfig/config.xml
+      ProjectPath: Temp/StagingArea/test.app/Contents/Data/Managed/etc/mono/mconfig/config.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Info.plist
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Info.plist
+      ProjectPath: Temp/StagingArea/test.app/Contents/Info.plist
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/MacOS/test
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/MacOS/test
+      ProjectPath: Temp/StagingArea/test.app/Contents/MacOS/test
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Ageia.tif
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Ageia.tif
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Ageia.tif
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.Core.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.Core.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.Core.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/System.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/mscorlib.dll
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Managed/mscorlib.dll
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Managed/mscorlib.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/boot.config
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/boot.config
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/boot.config
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers.assets
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers.assets
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/globalgamemanagers.assets
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/level0
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/level0
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/level0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets.resS
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets.resS
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Data/sharedassets0.assets.resS
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/DefaultPreferences.plist
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/DefaultPreferences.plist
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/DefaultPreferences.plist
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/classes.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/classes.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/classes.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/info.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/info.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/info.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/classes.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/classes.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/classes.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/info.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/info.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/info.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/Mono.tif
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/Mono.tif
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/Mono.tif
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/info.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/info.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/info.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/UnityPlayerIcon.png
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/UnityPlayerIcon.png
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/UnityPlayerIcon.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/StagingArea/test.app/Contents/Resources/unity default resources
+      FullPath: /Users/azabu16/Ball/Temp/StagingArea/test.app/Contents/Resources/unity
+        default resources
+      ProjectPath: Temp/StagingArea/test.app/Contents/Resources/unity default resources
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-02352a835a61d44b59a90873757200b8
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-02352a835a61d44b59a90873757200b8
+      ProjectPath: Temp/UnityTempFile-02352a835a61d44b59a90873757200b8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-4db92fedc203b49b58a10384e7a297eb
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-4db92fedc203b49b58a10384e7a297eb
+      ProjectPath: Temp/UnityTempFile-4db92fedc203b49b58a10384e7a297eb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-6bbe1d6084b3f4f33ac4ab1ca9faac79
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-6bbe1d6084b3f4f33ac4ab1ca9faac79
+      ProjectPath: Temp/UnityTempFile-6bbe1d6084b3f4f33ac4ab1ca9faac79
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-75f601384a17c4c80ae649a46a57e9d3
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-75f601384a17c4c80ae649a46a57e9d3
+      ProjectPath: Temp/UnityTempFile-75f601384a17c4c80ae649a46a57e9d3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-77aa17fbb059648fdabbab855c4d3c3d
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-77aa17fbb059648fdabbab855c4d3c3d
+      ProjectPath: Temp/UnityTempFile-77aa17fbb059648fdabbab855c4d3c3d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-814ca5e671ee74f66a326b866e1295ed
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-814ca5e671ee74f66a326b866e1295ed
+      ProjectPath: Temp/UnityTempFile-814ca5e671ee74f66a326b866e1295ed
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-9782f17346a804fbda08fec340f19e33
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-9782f17346a804fbda08fec340f19e33
+      ProjectPath: Temp/UnityTempFile-9782f17346a804fbda08fec340f19e33
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-a073cb814547740e88be9dcaf19df85c
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-a073cb814547740e88be9dcaf19df85c
+      ProjectPath: Temp/UnityTempFile-a073cb814547740e88be9dcaf19df85c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-d4192d72d9b704c74a2b007e5f639a29
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-d4192d72d9b704c74a2b007e5f639a29
+      ProjectPath: Temp/UnityTempFile-d4192d72d9b704c74a2b007e5f639a29
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-d78e3faf41dd6480bbe548c71e608f89
+      FullPath: /Users/azabu16/Ball/Temp/UnityTempFile-d78e3faf41dd6480bbe548c71e608f89
+      ProjectPath: Temp/UnityTempFile-d78e3faf41dd6480bbe548c71e608f89
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/tempFile.res
+      FullPath: /Users/azabu16/Ball/Temp/tempFile.res
+      ProjectPath: Temp/tempFile.res
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/tempFile.resG
+      FullPath: /Users/azabu16/Ball/Temp/tempFile.resG
+      ProjectPath: Temp/tempFile.resG
+      OriginalPath: 
+      Status: 4
+      Staged: 0
   - CommitID: 835b797af59914d034b09ce3826fc4df433c606f
     MergeA: 
     MergeB: 
